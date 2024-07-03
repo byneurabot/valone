@@ -1,13 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Foreigners on X</title>
+<title>Foreigners on X.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <style>
   .momo          //logo
   {
     text-align: center; 
-    font-size: 14pt;     
+    font-size: 14pt;  
+    
   }
   .lili      //bannière
   {

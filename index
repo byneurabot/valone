@@ -129,7 +129,7 @@
         {
           *{
               border-box: box-sizing;
-          }
+           }
           body
           {
                 outline: 0px;

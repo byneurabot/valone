@@ -21,9 +21,9 @@
 </style>  
 </head>
 <body>
-        <div class= "coco">
+    <div class= "coco">
             <div id="lolo"> Ce qui est fait est déjà fait. Avez-vous une idée de l'empreinte carbone ? </div>
             </div class="toto"> <img src=""> </div>
-
+    </div>
 </body>
 </html>
